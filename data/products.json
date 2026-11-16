@@ -1,0 +1,46 @@
+[
+  {
+    "id": "long-dress",
+    "name": "Long dress",
+    "category": "Dresses",
+    "price": 500,
+    "colors": [
+      "Noir"
+    ],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "images": [
+      "/uploads/66acec80-0193-4564-884f-dc8e479568d4.jpg"
+    ],
+    "description": "easy to wear",
+    "tag": "New Bestseller"
+  },
+  {
+    "id": "heels",
+    "name": "heels",
+    "category": "Heels",
+    "price": 343,
+    "colors": [
+      "Noir",
+      "Gold"
+    ],
+    "sizes": [
+      "36",
+      "37",
+      "38",
+      "39",
+      "40",
+      "41"
+    ],
+    "images": [
+      "/uploads/20c0e5c8-135c-4405-a1e1-5bba76bc3cf8.jpg"
+    ],
+    "description": "great",
+    "tag": "goood"
+  }
+]
